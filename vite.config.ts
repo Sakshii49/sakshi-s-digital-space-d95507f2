@@ -4,7 +4,7 @@ import path from "path";
 import { componentTagger } from "lovable-tagger";
 
 export default defineConfig(({ mode }) => ({
-  base: "/sakshi-s-digital-space-d95507f2/",   // ✔ FIXED
+  base: "/YOUR-REPO-NAME/",   // ⚠️ CHANGE THIS to your actual GitHub repository name
 
   server: {
     host: "::",
